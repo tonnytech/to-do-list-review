@@ -14,11 +14,6 @@ body {
   padding: 3%;
 }
 
-h1 {
-  font-size: 22px;
-  font-weight: normal;
-}
-
 input {
   border: 0;
   outline: 0;
@@ -50,6 +45,8 @@ i {
   justify-content: space-between;
   padding-left: 3%;
   padding-right: 3%;
+  font-size: 22px;
+  font-weight: normal;
 }
 
 .adding-to-do-list {
